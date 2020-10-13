@@ -14,34 +14,34 @@ $object = new Class(1, 2, 3)
 $object->makeAwesome($data);
 ```
 
-## Documentation
+## Dokumentacja
 
-To find out how to use this library follow [Documentation](http://link-to-documentation).
+Moja dokumentacja dotycząca pracy w domu z zajęć projektowanie i systemy baz danych.
 
-## Installation
+## Instalacja
 
-You can install it with Composer:
+Instalacja została wykonana na zajęciach.
 
 ```
-composer require vendor/project
+https://github.com/szymeqku/sl11ti3c
 ```
 
-## Features
+## Cel i funkcje
 
-* Can make this and this
-* Helps with some other problew
-* Is awesome
+* zbiór elementów pracy w domu
+* możliwość pomocy kolegów z zespołu projektowego
+* nadzór kierownika projektu
 
-## Contribute
+## Wkład projektowy
 
-* Issue Tracker: github.com/vendor/project/issues
-* Source Code: github.com/vendor/project
-* Tests: phpunit
+* Główny nadzór: https://github.com/Michal3456
+* Kod Projektu: https://github.com/szymeqku
 
-## License
 
-This project is released under the MIT Licence. See the bundled LICENSE file for details.
+## Licencja
 
-## Author
+Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje można znaleźć w dołączonym pliku LICENCJA.
 
-John Doe
+## Autor
+
+Szymon Łapka
